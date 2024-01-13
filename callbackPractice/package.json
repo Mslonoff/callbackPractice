@@ -1,0 +1,17 @@
+{
+  "name": "callbackpractice",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "",
+  "main": "calculate-square.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.0.0",
+    "mocha": "^10.2.0"
+  }
+}
